@@ -1,0 +1,11 @@
+Stock Price Prediction Report
+CSV: TSLA.csv
+Rows used: 2936
+
+Test Metrics:
+MAE : 478.2837
+RMSE: 572.8426
+MAPE: 75.18%
+R^2 : -2.2991
+
+Predicted NEXT-DAY Close: 75.7123
